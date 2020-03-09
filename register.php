@@ -8,13 +8,13 @@ body{height:100%;}
 </style>
 </head>
 <body style="background: url(./images/timg7.jpg)">
-<div class="index_01" > 
+<div class="index_01" >
 <table style="width: 100%;height:100%;" >
   <tr>
     <td align="center" >
       <form action="doregister.php " name="dl" method="post">
       <table  align="center" width=350 height=230; style="font-family:宋體;font-size:25px;">
-      <tr align="center"> 
+      <tr align="center">
           <td colspan="2" style="font-size:35px;">註冊使用者</td>
       </tr>
       <tr>
@@ -38,7 +38,7 @@ body{height:100%;}
       <tr>
         <td colspan="2" align="center">
         <input type="button" name='zu' value='登陸' onclick="location.href='index.php'" style="font-size:17px;border-radius: 12px;" class="btn"/>
-        <input type="reset" name="zu" value="重置" style="font-size:17px;border-radius: 12px;" class="btn"> 
+        <input type="reset" name="zu" value="重置" style="font-size:17px;border-radius: 12px;" class="btn">
         <input type="submit" name="zu" value="註冊" style="font-size:17px;border-radius:12px;" class="btn"/>
         </td>
       </tr>
